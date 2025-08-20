@@ -79,11 +79,11 @@ export function ComponentCard({
                   </Tooltip>
                 </TooltipProvider>
 
-                <OpenInV0Button
+                {/* <OpenInV0Button
                   registryUrl={registryUrl}
                   title={`${component.title} Kit`}
                   prompt={prompt}
-                />
+                /> */}
               </div>
             </div>
           </div>
